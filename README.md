@@ -1,80 +1,68 @@
-# 🔁 Official Domain Redirect Information — BillionBahis
+<div align="center">
+  <br>
+  <img src="https://betcraft.info/images/betcraftlogo.png" alt="BetCraft Logo" width="200">
+  <h1>⚡ BetCraft · iGaming Development & Soft Support</h1>
+  <p><strong>Launch your custom casino or sportsbook in 30 days.</strong> White-label solutions, 15,000+ games, crypto payments, and 24/7 enterprise support.</p>
 
-## 🚀 **All Domains Redirect to Official Platform**
-**👉 Primary Destination:** **`https://billionbahis.com`**  
-*Secure • Licensed • Global Access* 🌍
-
----
-
-## 🌐 **Redirected Domains List**
-
-The following domains are configured with **Cloudflare 301 Permanent Redirects** and forward **all traffic** (including paths & query parameters) to the official **BillionBahis** platform:
-
-- 🔗 <a href="https://cryptonbets101.com" target="_blank" rel="noopener noreferrer"><strong>cryptonbets101.com</strong></a>
-- 🔗 <a href="https://cryptonbets102.com" target="_blank" rel="noopener noreferrer"><strong>cryptonbets102.com</strong></a>
-- 🔗 <a href="https://cryptonsport.com" target="_blank" rel="noopener noreferrer"><strong>cryptonsport.com</strong></a>
-- 🔗 <a href="https://digitalorcasolutions.com" target="_blank" rel="noopener noreferrer"><strong>digitalorcasolutions.com</strong></a>
-- 🔗 <a href="https://goduabet.com" target="_blank" rel="noopener noreferrer"><strong>goduabet.com</strong></a>
-
-### 🔄 **Redirect Example**
-**Original URL:**  
-`cryptonsport.com`
-
-**Redirects to:**  
-`https://billionbahis.com`
+  <!-- Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/release-v2.0.0-blue?style=flat-square" alt="Version">
+    <img src="https://img.shields.io/badge/license-Commercial-purple?style=flat-square" alt="License">
+    <img src="https://img.shields.io/badge/uptime-99.9%25-success?style=flat-square" alt="Uptime">
+    <img src="https://img.shields.io/badge/security-ISO_27001-orange?style=flat-square" alt="Security">
+  </p>
+  <p>
+    <a href="https://betcraft.info">🌐 Official Website</a> •
+    <a href="#-key-features">Features</a> •
+    <a href="#-products--solutions">Products</a> •
+    <a href="#-contact--support">Contact</a>
+  </p>
+  <br>
+</div>
 
 ---
 
-## 🏆 **About BillionBahis**
+## 🎯 Overview
 
-**🎰 BillionBahis** is a trusted **international Online Casino & Sports Betting Platform**, operating under an official gaming license.
+**BetCraft** is a next-generation software development company specializing in **iGaming platforms**, **sports betting engines**, and **soft support services**. We empower operators worldwide with cutting-edge technology, seamless game integration, and robust payment solutions.
 
-### 🔐 **Licensing & Compliance**
-📜 **Licensed by** — **Anjouan Gaming Authority**  
-🛡️ Certified & regulated gaming operations  
-🔞 **18+ Responsible Gambling Only**
-
----
-
-## ⚙️ **Technical & SEO Details (Google-Friendly)**
-
-✅ **301 Permanent Redirects** (SEO-safe)  
-✅ Full URL path & query string preservation  
-✅ **Cloudflare Edge-based** redirects (fast & secure)  
-✅ **SSL / HTTPS** enforced  
-✅ Search engine friendly configuration  
-✅ Canonical traffic consolidation to `billionbahis.com`
-
-### 📈 **Redirect Benefits**
-🔍 **Proper Google indexing**  
-📈 **SEO authority consolidation**  
-🚫 **No duplicate content issues**  
-⚡ **Fast global access** (~100ms redirects)
+✅ **Trusted by 50+ operators**  
+✅ **Licensed & compliant** (Anjouan Gaming Authority)  
+✅ **15,000+ casino games** from top providers  
+✅ **Crypto & fiat payment gateways**  
+✅ **24/7 technical support & maintenance**
 
 ---
 
-## 🔎 **Keywords for Search Engines**
+## ✨ Key Features
 
-**BillionBahis** · **Online Casino** · **Sports Betting Platform** ·  
-**Licensed Casino Anjouan** · **Secure Betting Website** ·  
-**Cloudflare Redirect** · **301 Redirect** · **Crypto Casino** ·  
-**International Gambling Platform** · **BillionBahis Official**
-
----
-
-## 📌 **Important Notice**
-
-ℹ️ **These domains do not host separate content.**  
-They serve **solely as official access points** redirecting users to the primary **BillionBahis** platform.
-
----
-
-## 📞 **Contact & Verification**
-
-For **verification, partnership, or compliance inquiries**, please refer to the official website:  
-👉 **https://billionbahis.com**
+| Area | Capabilities |
+|------|--------------|
+| 🎰 **Casino Platform** | White-label, fully customizable, mobile-first UI (Vue.js) |
+| ⚽ **Sportsbook** | Pre-match & live betting, risk management, custom odds feed |
+| 💳 **Payments** | Multi-currency, crypto (BTC, ETH, USDT, TRX), fiat, 100+ methods |
+| 🛡️ **Anti-Fraud** | AI-powered detection, SEON integration, real-time monitoring |
+| 🧩 **Game Integration** | 15,000+ slots, live casino, table games from 80+ providers |
+| 🔧 **Soft Support** | 24/7 maintenance, bug fixes, updates, performance optimization |
+| 📊 **CRM & Bonuses** | Player segmentation, dynamic bonuses, loyalty programs |
+| 🔐 **Security** | DDoS protection, SSL encryption, regular audits, ISO 27001 aligned |
 
 ---
 
-> ✨ **Repository Purpose:**  
-> *Transparency • Technical Documentation • Search Engine Verification*
+## 🚀 Products & Solutions
+
+### 🧱 Platform Editions
+- **Starter** – Branded Vue.js frontend, Laravel backend, basic games, online chat.
+- **Basic** – Custom design, payment systems, 4 months hosting included.
+- **Standard** – Most popular. Includes SEON anti-fraud, 24/7 support, revenue share option.
+- **Individual** – Fully tailored architecture, VIP treatment, dedicated team.
+
+### 🔌 Core Modules
+- **Game Aggregator** – Single API for 15,000+ games (Pragmatic, Evolution, Hacksaw, etc.)
+- **Payment Gateway** – Unified fiat/crypto processing with auto-conversion.
+- **Admin Backoffice** – Super admin, finance, player management, reports.
+- **Bonus Engine** – Flexible rules: welcome packages, free spins, cashback, tournaments.
+- **Affiliate System** – Multi-tier commission tracking, banners, statistics.
+
+---
